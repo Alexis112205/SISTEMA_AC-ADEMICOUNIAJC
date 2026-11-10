@@ -1,5 +1,5 @@
 Integrantes
-// Erick Johan Enriquez VERA 
+// Erick Johan Enriquez Vera
 // John  Alexis  Correa Cabezas
 
 
