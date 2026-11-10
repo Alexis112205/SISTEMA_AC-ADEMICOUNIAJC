@@ -1,2 +1,4 @@
 target/
-config.properties
+lib/
+*.properties
+!*.properties.example
