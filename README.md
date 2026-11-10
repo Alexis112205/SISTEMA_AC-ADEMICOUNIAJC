@@ -1,3 +1,9 @@
+Integrantes
+// Erick Johan Enriquez VERA 
+// John  Alexis  Correa Cabezas
+
+
+
 # PRÁCTICA ACADÉMICA - SISTEMA DE GESTIÓN UNIAJC
 
 ## Objetivo
