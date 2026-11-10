@@ -1,0 +1,8 @@
+# Configuración de Conexión a Base de Datos PostgreSQL (Neon)
+# Reemplazar con las credenciales de tu proyecto Neon (https://console.neon.tech)
+
+# Formato Neon con SSL:
+# URL=jdbc:postgresql://ep-xxxx-xxxx.region.aws.neon.tech/neondb?sslmode=require
+URL=jdbc:postgresql://ep-example.us-east-2.aws.neon.tech/neondb?sslmode=require
+USERNAME=neondb_owner
+PASSWORD=tu_password_aqui
